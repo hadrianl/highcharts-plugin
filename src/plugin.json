@@ -1,0 +1,36 @@
+{
+  "type": "panel",
+  "name": "highcharts-plugin",
+  "id": "krinvest-highcharts-plugin",
+  "info": {
+    "description": "highchart panel",
+    "author": {
+      "name": "hadrianl",
+      "url": ""
+    },
+    "keywords": [
+      "highchart"
+    ],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/grafana/simple-react-panel"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/grafana/simple-react-panel/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaVersion": "7.0.x",
+    "plugins": []
+  }
+}
